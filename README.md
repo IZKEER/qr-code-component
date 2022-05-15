@@ -1,11 +1,11 @@
 ## Overview
 
-This is a FREE challenge created by https://www.frontendmentor.io/home.
+This is a FREE challenge created by https://www.frontendmentor.io.
 I've been learning frontend dev by my self so feel free to hit with any tips or advice !
 
 ### Screenshot
 
-![x](https://prnt.sc/htHsT8VJKUqG)
+![png-transparent-alien-extraterrestrial-life-alien-face-face-head-smiley](https://user-images.githubusercontent.com/97193948/168472922-4df4a63e-c34d-4cb9-9307-6b235942f73b.png)
 
 ## My process
 
