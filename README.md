@@ -15,8 +15,8 @@ then i've created the styles for the <img> div and updated the HTML to see how i
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5 
+- CSS
 - Flexbox
 - CSS Grid
   )
