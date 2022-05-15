@@ -20,5 +20,5 @@ then i've created the styles for the <img> div and updated the HTML to see how i
 - Flexbox
 - CSS Grid
   )
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/IZKEER)
-- Twitter - [@yourusername](https://www.twitter.com/IZKEER)
+- Frontend Mentor - [@IZKEER](https://www.frontendmentor.io/profile/IZKEER)
+- Twitter - [@IZKEER](https://www.twitter.com/IZKEER)
